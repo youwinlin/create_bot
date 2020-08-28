@@ -1,5 +1,10 @@
 # Git and GitHub
-https://medium.com/free-code-camp/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861
+
+Git is an Open Source Distributed Version Control System.
+
+> https://medium.com/free-code-camp/what-is-git-and-how-to-use-it-c341b049ae61
+
+> https://medium.com/free-code-camp/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861
 
 $ git clone [HTTPS Address]
 

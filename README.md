@@ -6,8 +6,11 @@ $ git clone [HTTPS Address]
 When you want to save your work, four steps are required. These steps are called: “status”, “add”, “commit” and “push”.
 
 $ git status
+
 $ git add [Filename] [...]
+
 $ git commit -m "Added ..."
+
 $ git push origin master
 
 
